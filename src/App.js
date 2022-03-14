@@ -24,7 +24,7 @@ function App() {
           </div>
 
           <div className="container">
-            <img src={image} width="300px"/>
+            <img src={image} width="300px" alt="gifts"/>
           </div>
 
           <div className="container">
